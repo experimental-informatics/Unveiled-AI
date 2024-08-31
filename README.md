@@ -1,7 +1,7 @@
 # Unveiled AI: down the rabbit hole of symbols, ethics and aesthetics
-Basic Seminar "Code"
-Thursdays weekly 11 am – 1 pm
-Filzengraben 8 - 10, 0.2 [ ] ground zero, Academy of Media Arts Cologne [KHM](https://www.khm.de/)
+- Basic Seminar "Code"
+- Thursdays weekly 11 am – 1 pm
+- Filzengraben 8 - 10, 0.2 [ ] ground zero, Academy of Media Arts Cologne [KHM](https://www.khm.de/)
 
 The seminar covers the basics of practical cultural work with generative AI, and participants are not required to have previous programming knowledge. By learning the universal programming language Python, we will experimentally explore practical aspects and break down current AI tools for film, animation, image, sound, and text generation into their individual components. This approach not only helps us develop our own aesthetics and ways of expression with AI tools but also better understand their semantics so that we can question them in an aesthetic—research-oriented way.
 
